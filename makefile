@@ -27,4 +27,4 @@ $(TARGET): $(SOURCE)
 
 
 clean:
-	rm -f $(TARGET) boot64.o
+	rm -f $(TARGET)
